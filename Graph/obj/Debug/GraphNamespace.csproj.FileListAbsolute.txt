@@ -1,0 +1,5 @@
+D:\PU\Химическа информатика\Таблица на свързаност\Graph\bin\Debug\Graph.dll
+D:\PU\Химическа информатика\Таблица на свързаност\Graph\bin\Debug\Graph.pdb
+D:\PU\Химическа информатика\Таблица на свързаност\Graph\obj\Debug\GraphNamespace.csprojResolveAssemblyReference.cache
+D:\PU\Химическа информатика\Таблица на свързаност\Graph\obj\Debug\Graph.dll
+D:\PU\Химическа информатика\Таблица на свързаност\Graph\obj\Debug\Graph.pdb
